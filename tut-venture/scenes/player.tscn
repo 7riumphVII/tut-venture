@@ -43,6 +43,8 @@ radius = 4.0
 height = 14.0
 
 [node name="Player" type="CharacterBody2D" unique_id=932647311]
+z_index = 5
+collision_layer = 2
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1328851741]
 position = Vector2(0, -12)
