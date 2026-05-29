@@ -457,10 +457,10 @@ position = Vector2(744, 84)
 [node name="Labels" type="Node" parent="." unique_id=1019672722]
 
 [node name="CtrlHint" type="Label" parent="Labels" unique_id=298575994]
-offset_left = -92.0
-offset_top = 57.0
-offset_right = 18.0
-offset_bottom = 80.0
+offset_left = -88.0
+offset_top = 36.0
+offset_right = 22.0
+offset_bottom = 59.0
 theme_override_fonts/font = ExtResource("8_gee14")
 theme_override_font_sizes/font_size = 8
 text = "Space to jump.
